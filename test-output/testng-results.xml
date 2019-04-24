@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28600" started-at="2019-04-23T12:35:18Z" finished-at="2019-04-23T12:35:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28600" started-at="2019-04-23T12:35:18Z" finished-at="2019-04-23T12:35:47Z">
+      <class name="testng.Tests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testng.Tests@3f4d3d]" name="beforeTest" is-config="true" duration-ms="7329" started-at="2019-04-23T12:35:11Z" finished-at="2019-04-23T12:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:testng.Tests@3f4d3d]" name="testEasy" is-config="true" duration-ms="11919" started-at="2019-04-23T12:35:18Z" finished-at="2019-04-23T12:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="testEasy2()[pri:0, instance:testng.Tests@3f4d3d]" name="testEasy2" duration-ms="2784" started-at="2019-04-23T12:35:30Z" finished-at="2019-04-23T12:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy2 -->
+        <test-method status="PASS" signature="testEasy7()[pri:0, instance:testng.Tests@3f4d3d]" name="testEasy7" duration-ms="13823" started-at="2019-04-23T12:35:33Z" finished-at="2019-04-23T12:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy7 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testng.Tests@3f4d3d]" name="afterTest" is-config="true" duration-ms="56" started-at="2019-04-23T12:35:47Z" finished-at="2019-04-23T12:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
